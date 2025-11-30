@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NexusHub
 
 **Production-Ready Modular Business Management Platform**
@@ -240,3 +241,6 @@ For support, email [support@nexushub.com](mailto:support@nexushub.com) or open a
 ---
 
 **Made with ❤️ using Domain-Driven Design principles**
+=======
+# nexus-hub
+>>>>>>> 1b1ca8f0792be6267c32b66095e44a6c0d579475
